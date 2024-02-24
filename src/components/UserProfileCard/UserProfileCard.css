@@ -1,0 +1,60 @@
+.upc{
+    width: 700px;
+    margin: 20px;
+    border-radius: 4px;
+    padding-bottom: 20px;
+    background: white;
+}
+
+.socialtiles {
+    width: 40px;
+    padding-left: 6px;
+    margin: 4px;
+}
+
+.gradient{
+    background-image: linear-gradient(#ffffff,  #8f8f8f);
+    height: 150px;
+    border-radius: 4px 4px 0px 0px;
+}
+
+.profile-down img{
+    height: 200px;
+    border-radius: 200px;
+    margin-top: -75px;
+    padding: 5px;
+    background: white;
+    margin-left: 10px;
+}
+
+.profile_title {
+    margin-top: -130px;
+    margin-left: 230px;
+    font-size: 36px;
+    font-weight: 450;
+    color:black;
+    font-family: fantasy;
+}
+
+.profile-description {
+    margin-left:192px;
+    margin-top: -8px;
+    padding: 20px 40px;
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(45, 45, 45);
+}
+
+.profile-button {
+    font-size: 16px;
+    color: black;
+    background: white;
+    margin: 10px 100px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+
+.contact {
+    font-family: fantasy;
+    font-size: 20px;
+}

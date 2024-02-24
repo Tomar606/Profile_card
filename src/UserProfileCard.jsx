@@ -1,10 +1,10 @@
 import React from "react";
 import "./UserProfileCard.css"
-import pfp from '../assets/pfp.jpg'
-import lin from '../assets/lin.png'
-import x from '../assets/x.png'
-import insta from '../assets/insta.png'
-import mail from '../assets/mail.png'
+import pfp from './assets/pfp.jpg'
+import lin from './assets/lin.png'
+import x from './assets/x.png'
+import insta from './assets/insta.png'
+import mail from './assets/mail.png'
 
 const UserProfileCard = () => {
     return (
